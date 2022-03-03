@@ -52,4 +52,4 @@
         1. admin / redshelf
 3. Part 3:
     * Q:
-        1.     
+        1.
