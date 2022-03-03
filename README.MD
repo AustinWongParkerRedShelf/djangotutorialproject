@@ -50,13 +50,6 @@
         1. Object' representations are automatically-generated throughout Django
     * Q: For tutorial purposes, User/Pass?
         1. admin / redshelf
-    * Q: 
-        1.
-    * Q: 
-        1.
-    * Q: 
-        1.
-    * Q: 
-        1.
-    * Q: 
-        1.        
+3. Part 3:
+    *
+        1.     
